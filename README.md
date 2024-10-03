@@ -77,6 +77,6 @@ Example Output:
     Points based on the Number of Attempts: 33
 ## Contact
 
-    Name: Hritik ranjan
-    GitHub: https://github.com/hritikranjan1
-    LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
+   Name: Hritik ranjan
+   GitHub: https://github.com/hritikranjan1
+   LinkedIn: https://www.linkedin.com/in/hritik-ranjan-05a835230/
